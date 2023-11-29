@@ -1,7 +1,7 @@
 [role="xpack"]
 [[security-api-create-api-key]]
 === Create API key API
-++++
+++++ 
 <titleabbrev>Create API keys</titleabbrev>
 ++++
 
